@@ -1,17 +1,6 @@
+# Q1: write a python program to print  " Hello World"
 
-namespace ConsoleApp1
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            char[] car = ['H', 'E', 'L', 'L', 'O'];
 
-            foreach (char c in car)
-            {
-                Console.WriteLine(c);
-            }
-            
-        }
-    }
-}
+# for print Hellow world python use "print " key word
+
+print('Hellow World')
