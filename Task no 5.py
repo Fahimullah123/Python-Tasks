@@ -13,7 +13,7 @@ def greating(name,age):
 
 
 
-name=input("Enter your Name : ")
+name=input("Enter your Name = ")
 age=input("Enter your Age : ")
 
 greating(name,age)
