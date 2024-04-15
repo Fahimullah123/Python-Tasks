@@ -1,4 +1,4 @@
-#Implement a program that swaps the values of two variables.
+#Implement a program that swapping the values of two variables.
 
 def swapping_value(a,b):
 
