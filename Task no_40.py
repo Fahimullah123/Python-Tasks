@@ -1,4 +1,4 @@
-
+#  Write a function to remove all duplicate characters from a given string
 def remove_duplicates(input_string):
     # Initialize an empty set to keep track of unique characters
     seen = set()
